@@ -85,22 +85,15 @@ This project demonstrates how clustering techniques and statistical analysis can
 ## How to Run
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/okesh1215/clustering-global-development.git
+   git clone https://github.com/okesh1215/A-Clustering-Approach-on-Unveiling-Global-Development-Disparities.git
 Navigate to the Project Directory:
-bash
-Copy
-Edit
 cd clustering-global-development
+
 Install Dependencies:
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the Analysis:
-bash
-Copy
-Edit
-python analysis.py
+
+Run the python file using python filename.py
+
 Author(s)
 Okesh Ankireddypalli
 Email: bl.en.u4aie22044@bl.students.amrita.edu
