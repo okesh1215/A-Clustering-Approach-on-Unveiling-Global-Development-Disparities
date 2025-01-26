@@ -1,4 +1,4 @@
-# Cluster-Based-Classification-of-Students-Responses-to-Algebraic-Questions
+
 # A Clustering Approach on Unveiling Global Development Disparities
 
 ## Overview
