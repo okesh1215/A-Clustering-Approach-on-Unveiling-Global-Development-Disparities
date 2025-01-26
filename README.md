@@ -86,22 +86,39 @@ This project demonstrates how clustering techniques and statistical analysis can
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/okesh1215/A-Clustering-Approach-on-Unveiling-Global-Development-Disparities.git
-Navigate to the Project Directory:
-cd clustering-global-development
+   ```
 
-Install Dependencies:
-pip install -r requirements.txt
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd A-Clustering-Approach-on-Unveiling-Global-Development-Disparities
+   ```
 
-Run the python file using python filename.py
+3. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Author(s)
-Okesh Ankireddypalli
-Email: bl.en.u4aie22044@bl.students.amrita.edu
-Mouhitha A
-Email: bl.en.u4aie22075@bl.students.amrita.edu
-Saranya Gujjula
-Email: bl.en.u4aie22077@bl.students.amrita.edu
-Sarada Jayan
-Email: j_sarada@blr.amrita.edu
-Acknowledgments
+4. **Run the Python File:**
+   ```bash
+   python filename.py
+   ```
+
+---
+
+## Author(s)
+- Okesh Ankireddypalli  
+  Email: bl.en.u4aie22044@bl.students.amrita.edu
+
+- Mouhitha A  
+  Email: bl.en.u4aie22075@bl.students.amrita.edu
+
+- Saranya Gujjula  
+  Email: bl.en.u4aie22077@bl.students.amrita.edu
+
+- Sarada Jayan  
+  Email: j_sarada@blr.amrita.edu
+
+---
+
+## Acknowledgments
 This project is part of the academic work at Amrita Vishwa Vidyapeetham, Bengaluru. Special thanks to the Department of Computer Science & Engineering and the Department of Mathematics for their guidance and support.
